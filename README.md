@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cmoney12
 - 👀 I’m interested in C/C++ Development
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning C/C++, Networking, and Telephony.
 
 <!---
 Cmoney12/Cmoney12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
